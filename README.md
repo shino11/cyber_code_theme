@@ -1,16 +1,20 @@
-# cyber-code-dark README
+# README
 
-## Working with Markdown
+## A Dark Green Theme for Visual Studio Code!
+<img width="1920" height="1032" alt="2026-02-09_032824readme" src="https://github.com/user-attachments/assets/49509264-2211-464e-9716-dafcc636d029" />
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Lenguaje sintaxis Examples
+* Python
+<img width="1392" height="521" alt="2026-02-09_032936python" src="https://github.com/user-attachments/assets/1db414a7-ee2c-42d4-a53e-9518276b069a" />
 
-## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* JavaScript
+<img width="1392" height="527" alt="2026-02-09_032916javaScript" src="https://github.com/user-attachments/assets/64e1e999-0f07-4c30-82b4-7f4f3b9e1936" />
 
-**Enjoy!**
+* TypeScript
+<img width="1392" height="614" alt="2026-02-09_032824typeScript" src="https://github.com/user-attachments/assets/b13db2e4-6056-4299-9466-fae1e8089cd1" />
+
+
+
+# Enjoy!
