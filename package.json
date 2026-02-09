@@ -1,9 +1,24 @@
 {
   "name": "cyber-code-theme",
   "displayName": "Cyber Code Theme",
+  "icon": "",
   "description": "Dark theme for VS Code",
   "publisher": "shinoleon",
   "version": "0.0.1",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/shino11/cyber_code_theme.git"
+  },
+  "keywords": [
+    "dark theme",
+    "cyber",
+    "cyberpunk",
+    "dark green theme",
+    "dark colors",
+    "green colors",
+    "high contrast",
+    "matrix"  
+  ],
   "engines": {
     "vscode": "^1.109.0"
   },
