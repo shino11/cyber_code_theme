@@ -15,6 +15,7 @@
 * TypeScript
 <img width="1392" height="614" alt="2026-02-09_032824typeScript" src="https://github.com/user-attachments/assets/b13db2e4-6056-4299-9466-fae1e8089cd1" />
 
+<br/>Font used in the demo is [JetBrainsMono-Regular] (https://marketplace.visualstudio.com/items?itemName=NarasimaPandiyan.jetbrainsmono)
 
-
+<br/> ***Found any problems in the theme? Create an issue on GitHub.***
 # Enjoy!
