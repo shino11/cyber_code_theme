@@ -19,3 +19,4 @@
 
 <br/> ***Found any problems in the theme? Create an issue on GitHub.***
 # Enjoy!
+ 

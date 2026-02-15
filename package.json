@@ -1,7 +1,7 @@
 {
   "name": "cyber-code-theme",
   "displayName": "Cyber Code Theme",
-  "icon": "../cyber_logo.png",
+  "icon": "images/cyber_logo.png",
   "description": "Dark theme for VS Code",
   "publisher": "shinoleon",
   "version": "0.0.1",
